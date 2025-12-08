@@ -1,7 +1,7 @@
-package com.letsbe.mapper;
+package com.soothemind.mapper;
 
 
-import com.letsbe.vo.UserVo;
+import com.soothemind.vo.UserVo;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

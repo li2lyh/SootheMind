@@ -1,7 +1,7 @@
-package com.letsbe.controller;
+package com.soothemind.controller;
 
-import com.letsbe.service.UserService;
-import com.letsbe.vo.UserVo;
+import com.soothemind.service.UserService;
+import com.soothemind.vo.UserVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

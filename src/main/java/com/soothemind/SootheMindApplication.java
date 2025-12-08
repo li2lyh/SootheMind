@@ -1,13 +1,13 @@
-package com.letsbe;
+package com.soothemind;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LetsBeApplication {
+public class SootheMindApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LetsBeApplication.class, args);
+        SpringApplication.run(SootheMindApplication.class, args);
     }
 
 }

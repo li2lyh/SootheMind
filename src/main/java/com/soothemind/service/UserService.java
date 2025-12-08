@@ -1,7 +1,7 @@
-package com.letsbe.service;
+package com.soothemind.service;
 
-import com.letsbe.mapper.UserMapper;
-import com.letsbe.vo.UserVo;
+import com.soothemind.mapper.UserMapper;
+import com.soothemind.vo.UserVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

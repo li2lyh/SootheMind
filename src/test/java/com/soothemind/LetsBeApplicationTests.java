@@ -1,10 +1,10 @@
-package com.letsbe;
+package com.soothemind;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LetsBeApplicationTests {
+class SootheMindApplicationTests {
 
     @Test
     void contextLoads() {

@@ -1,4 +1,4 @@
-package com.letsbe.vo;
+package com.soothemind.vo;
 
 import lombok.Data;
 import java.util.Date;
